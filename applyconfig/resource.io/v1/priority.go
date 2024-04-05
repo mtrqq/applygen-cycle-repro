@@ -3,7 +3,7 @@
 package v1
 
 import (
-	resourceiov1 "github.io/applygen-cycle-repro/applyconfig/resource.io/v1"
+	resourceiov1 "github.com/applygen-cycle-repro/applyconfig/resource.io/v1"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
 	types "k8s.io/apimachinery/pkg/types"
 	v1 "k8s.io/client-go/applyconfigurations/meta/v1"
